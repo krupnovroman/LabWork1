@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sergeevichich
+=======
+Sergeev
+>>>>>>> newdev
